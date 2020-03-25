@@ -67,7 +67,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="index.html" />
     <Content Include="PaginaInicial.html" />
+    <Content Include="pagina_gsr.html" />
+    <Content Include="paginaJulio.html" />
     <Content Include="paginaPedro.html" />
     <Content Include="Web.config" />
   </ItemGroup>
