@@ -68,6 +68,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="PaginaInicial.html" />
+    <Content Include="paginaJulio.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
